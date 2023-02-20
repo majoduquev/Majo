@@ -1,0 +1,11 @@
+h1{color:#9400D3;}
+hr{
+  border-color: grey;
+  border-width: 6px;
+  border-style: dotted none none;
+  width: 10%
+}
+body{
+  background-color: Azure;
+
+}
